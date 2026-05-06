@@ -1,6 +1,6 @@
 # My Codex Skills
 
-This repository stores my personal Codex skills and research workflow templates.
+This repository stores my personal Codex skills 
 
 ## Skills
 
